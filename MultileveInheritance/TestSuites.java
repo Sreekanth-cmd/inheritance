@@ -27,4 +27,5 @@ public class TestSuites extends TestCases   //Extend ReusableComponents
 	}
 
 }
+//did changes from git directly
 
